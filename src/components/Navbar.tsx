@@ -6,7 +6,7 @@ const Navbar = () => {
       <nav className="container mx-auto flex items-center justify-between p-4">
         {/* Logo */}
         <div className="text-2xl font-bold text-accent">
-          BD
+          SA
         </div>
         {/* Navigation Links */}
         <ul className="hidden md:flex items-center space-x-6 text-slate-light">
